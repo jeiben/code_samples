@@ -3,7 +3,7 @@ from PIL import Image
 
 num = randint(1,3)
 
-path = "/home/jason/Projects/code_samples/pictures/"
+path = "pictures/"
 
 if num == 1:
 	path += "cartoon1.jpg"
