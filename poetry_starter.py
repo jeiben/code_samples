@@ -50,7 +50,7 @@ def makePoem():
 
     file_path = #where do you want to save the text file?
     text_file = open(file_path, "w")
-    text_file.write()
+    text_file.write() #insert the poem to write it to the new file
     return poem
 
 print makePoem()
